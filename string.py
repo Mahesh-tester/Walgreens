@@ -32,3 +32,7 @@ str1="Python"
 
 st3=str+str1
 print(st3)
+
+l1=["orange","grapes","apple"]
+for l in l1:
+    print(l,end=' ')
