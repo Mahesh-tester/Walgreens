@@ -26,3 +26,9 @@ rev=""
 for i in s:
     rev=i+rev
 print(rev)
+
+str="Welcome"
+str1="Python"
+
+st3=str+str1
+print(st3)
