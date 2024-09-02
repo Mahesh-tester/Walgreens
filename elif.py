@@ -7,5 +7,7 @@ elif weekno==3:
     print("tuesday")
 elif weekno==4:
     print("Wednesday")
+elif weekno==5:
+    print("Thursday")
 else:
     print("not at all a day")
